@@ -1,0 +1,17 @@
+ArduinoAddons/Arduino_0.xx/Gen6/cores/arduino
+ArduinoAddons/Arduino_0.xx/Gen7/cores/arduino
+ArduinoAddons/Arduino_0.xx/libraries/LiquidCrystal
+ArduinoAddons/Arduino_0.xx/libraries/SPI
+ArduinoAddons/Arduino_0.xx/libraries/U8glib
+ArduinoAddons/Arduino_0.xx/libraries/U8glib/utility
+ArduinoAddons/Arduino_0.xx/Sanguino/bootloaders/atmega1284p
+ArduinoAddons/Arduino_0.xx/Sanguino/cores/arduino
+ArduinoAddons/Arduino_1.x.x/hardware/rambo/cores/arduino
+ArduinoAddons/Arduino_1.x.x/hardware/rambo/variants/standard
+ArduinoAddons/Arduino_1.x.x/hardware/Sanguino/cores/arduino
+ArduinoAddons/Arduino_1.x.x/hardware/Sanguino/variants/standard
+ArduinoAddons/Arduino_1.x.x/libraries/LiquidCrystal
+ArduinoAddons/Arduino_1.x.x/libraries/SPI
+ArduinoAddons/Arduino_1.x.x/libraries/U8glib
+ArduinoAddons/Arduino_1.x.x/libraries/U8glib/utility
+Marlin
